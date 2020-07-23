@@ -34,7 +34,7 @@ Sync pattern is 0XA5A5 instead of 0XC744
 
 ```sh
 $ pipenv run PassSetup.py
-Select RF string for SAT1 
+Select RF string for SAT1
 
 New value for string, or <Enter> for default (1) 1
 Invoking native procedure EstablishContact

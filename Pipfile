@@ -6,8 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-spacepython = {path = "./.tmp/SpacePython-1.0.1"}
 pyyaml = "*"
+spacepython = {file = "https://www.omg.org/spec/SOLM/20120301/SpacePython-1.0.1.zip"}
 
 [requires]
 python_version = "2.7"
